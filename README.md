@@ -1,9 +1,12 @@
 # ![Althea](./assets/AltheaL1-logo.svg)
 
+# Althea L1 genesis and resources
+
+This repo cointains the genesis file for Althea L1 and some resources for validators
+
 ## Index
 
-1. [Joining](/docs/join.md)
-1. [Building on Althea L1](/docs/development/index.md)
+1. [MAin docs](https://docs.althea.net)
 1. [Testnet resources](/docs/testnet.md)
 1. [Hackathon project index](https://dorahacks.io/hackathon/145)
 1. [Source code](https://github.com/althea-net/althea-l1)
@@ -44,5 +47,6 @@ The community is preparing for immenent launch with a mainnet dress rehersal sta
 
 ## Community Docs
 
+* [Althea L1 docs](https://docs.althea.net)
 * [Nodeist](https://nodeist.net/Althea/)
 * [Bccnodes](https://bccnodes.com/t/althea/)
